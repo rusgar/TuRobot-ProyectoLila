@@ -64,4 +64,4 @@ LinkedIn:
 * Da las gracias públicamente 🤓😉.
 
 ---
-Hecho con 💟 por el equipo de Refineria F12 durante el BootCamp de [Factoria F5](https://www.rompemosloscodigos.org/) 😊
+Hecho con 💟 por el equipo de [Refineria F12](https://github.com/refineriaf12/valnalon) durante el BootCamp de [Factoria F5](https://www.rompemosloscodigos.org/) 😊
