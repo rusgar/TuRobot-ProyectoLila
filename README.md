@@ -2,6 +2,9 @@
 Proyecto encargado por Valnalon-Proyecto Lila💜, para el desarrollo de un lienzo donde se pudiese reproducir por piezas las partes de
 un robot, para poder transformarlas 🦾, moverlas 🦿 y a su vez guardarlas para futuras impresiones
 
+<img src="https://github.com/rusgar/TuRobot-ProyectoLila/blob/master/src/assets/logos/Robot.jpeg" alt=""/>
+
+
 ## Project setup 🚀
 ```
 npm install
